@@ -10,5 +10,5 @@
   <img align="center" alt="gumeeee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gumeeee-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="gumeeee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/124413755?v=4">
+  <img align="top" alt="gumeeee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/124413755?v=4">
 </div>
