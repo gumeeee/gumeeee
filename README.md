@@ -2,9 +2,13 @@
 
 🕹 Procurando me tornar um programador Full-stack
 
-[![Gumee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gumeeee&show_icons=true&theme=synthwave)](https://github.com/gumeeee/github-readme-stats#gh-dark-mode-only)
+<div style="display: flex">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumeeee&layout=compact&show_icons=true&theme=synthwave)](https://github.com/gumeeee/github-readme-stats)
+[![Gumee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gumeeee&show_icons=true&theme=synthwave)](https://github.com/gumeeee/github-readme-stats#gh-dark-mode-only) 
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumeeee&layout=compact&show_icons=true&theme=synthwave)](https://github.com/gumeeee/github-readme-stats)
+
+</div>
 
 
 <div style="display: inline_block"><br>
