@@ -17,4 +17,3 @@
   <img align="top" alt="gumeeee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/124413755?v=4">
 </div>
 
-![Snake animation](https://github.com/gumeeee)
