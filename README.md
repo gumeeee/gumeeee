@@ -64,7 +64,8 @@
 
 ## Top Open Source
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=gumeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gumeeee/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=gumeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/projeto-integrador-inova-verde)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=gumeeee&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/inovaverde)
 
 <br/>
 <hr/>
