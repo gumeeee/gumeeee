@@ -64,8 +64,8 @@
 
 ## Top Open Source
 
-[![Inovaverde Back end](https://github-readme-stats.vercel.app/api/pin/?username=gumeeee&repo=inovaverde&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/projeto-integrador-inova-verde)
-[![Inovaverde Front end](https://github-readme-stats.vercel.app/api/pin/?username=gumeeee&repo=inovaverde&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/inovaverde)
+[![Inovaverde](https://github-readme-stats.vercel.app/api/pin/?username=Inova-Verde&repo=projeto-integrador-inova-verde&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/projeto-integrador-inova-verde)
+[![Inovaverde](https://github-readme-stats.vercel.app/api/pin/?username=Inova-Verde&repo=inovaverde&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/inovaverde)
 
 <br/>
 <hr/>
