@@ -5,7 +5,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Procurando me tornar um desenvolvedor fullstack <b>São Paulo, capital</b> 」
+    「 Fullstack Developer jr <b>São Paulo, capital</b> 」
     <br>
     <br>
   </samp>
