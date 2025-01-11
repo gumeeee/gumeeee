@@ -25,7 +25,7 @@
 <p>
  <img align="right" width="350" src="coding-anime.gif" alt="Coding gif" />
   
- ❤️ &emsp; Amo codar e aprender tudo sobre programação e tecnologia e motivado a aprender qualquer linguagem<br/><br/>
+ ❤️ &emsp; Amo codar e aprender tudo sobre programação, tecnologia e motivado a aprender qualquer linguagem<br/><br/>
  💬 &emsp; Pergunte-me sobre qualquer coisas [aqui](https://github.com/gumeeee)
 
 </p>
