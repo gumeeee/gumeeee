@@ -38,7 +38,7 @@
 
 ### Frameworks
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,angular,express,spring,tailwind,jest&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,angular,nestjs,spring,tailwind,jest&theme=dark)
 
 ### Languages
 
