@@ -1,90 +1,123 @@
-<h3 align="center">
-      &lt; Olá, eu me chamo Guilherme Moura /&gt;
-</h3>
+<h1 align="center">Guilherme Moura</h1>
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 Fullstack Developer jr <b>São Paulo, capital</b> 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+  <b>AI Engineer @ Blis AI</b><br/>
+  Building production LLM systems — agents, RAG, and MCP integrations.<br/>
+  São Paulo, Brazil 🇧🇷 (UTC−3)
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/guilherme-moura-13a991259/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
+  <a href="https://www.linkedin.com/in/gmdasilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gumeeee">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-<br />
 
-<!-- About Section -->
+---
 
-# About me
+### About me
 
+Software engineer who moved into AI Engineering and now ships LLM-powered products I work mainly on agentic systems, retrieval pipelines, and MCP-based tool integrations — bridging LLMs with the real systems they need to act on. Previous background in full-stack development (TypeScript, .NET, React/Next.js) keeps me close to the application layer where AI features actually live.
+
+---
+
+### 🛠 Currently working on
+
+- **Agentic workflows at Blis AI** — orchestrating multi-step agents with **LangGraph**, **OpenAI** and **Anthropic** APIs.
+- **MCP servers and clients** — exposing internal tools and data sources to LLM agents via the Model Context Protocol.
+- **Production RAG** — vector retrieval, hybrid search, and async ingestion pipelines on **Redis** and **Postgres** with **Celery** workers.
+
+### 📚 Currently learning
+
+LangGraph durable execution patterns · LLM evals & observability (Langfuse, LangSmith) · Anthropic Agent Skills · fine-tuning with LoRA/Unsloth.
+
+---
+
+### 🧱 Tech stack
+
+#### Languages
 <p>
- <img align="right" width="350" src="coding-anime.gif" alt="Coding gif" />
-  
- ❤️ &emsp; Amo codar e aprender tudo sobre programação, tecnologia e motivado a aprender qualquer linguagem<br/><br/>
- 💬 &emsp; Pergunte-me sobre qualquer coisas [aqui](https://github.com/gumeeee)
-
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,go" alt="Languages"/>
 </p>
 
-<br/>
-<br/>
-<br/>
+#### AI / LLM frameworks
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol"/>
+</p>
 
-## Use To Code
+#### LLM providers & runtimes
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
-### Frameworks
+#### RAG & vector databases
+<p>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Pinecone-1B1B3A?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Chroma-FF6F61?style=flat-square&logoColor=white" alt="Chroma"/>
+  <img src="https://img.shields.io/badge/Cohere_Rerank-39594D?style=flat-square&logo=cohere&logoColor=white" alt="Cohere Rerank"/>
+</p>
 
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,angular,nestjs,spring,tailwind,jest&theme=dark)
+#### Eval & observability
+<p>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square&logoColor=white" alt="Langfuse"/>
+  <img src="https://img.shields.io/badge/Ragas-FF4F00?style=flat-square&logoColor=white" alt="Ragas"/>
+</p>
 
-### Languages
+#### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,dotnet" alt="Backend"/>
+</p>
 
-![Languages](https://skillicons.dev/icons?i=java,ts,go&theme=dark)
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,vite" alt="Frontend"/>
+</p>
 
-### DB
+#### Workers, async & messaging
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Redis_Queue-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Queue"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+</p>
 
-![DBs](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark)
+#### Databases & cache
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,supabase,firebase" alt="Databases"/>
+</p>
 
-### Other
+#### Infra & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" alt="Infra"/>
+</p>
 
-![Others](https://skillicons.dev/icons?i=docker,git,supabase,figma&theme=dark)
+#### Also work with
+Jest · ESLint · Swagger · Figma · SQLAlchemy · Alembic
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+---
 
-### OS
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-
-<br/>
-
-## Top Open Source
-
-[![Inovaverde](https://github-readme-stats.vercel.app/api/pin/?username=Inova-Verde&repo=projeto-integrador-inova-verde&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/projeto-integrador-inova-verde)
-[![Inovaverde](https://github-readme-stats.vercel.app/api/pin/?username=Inova-Verde&repo=inovaverde&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Inova-Verde/inovaverde)
-
-<br/>
-<hr/>
-<br/>
+### 📊 GitHub stats
 
 <p align="center">
-  <a href="https://github.com/gumeeee">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gumeeee&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gumeeee&show_icons=true&hide_border=true&theme=github_dark&hide=issues&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumeeee&hide_border=true&theme=github_dark&layout=compact&langs_count=8" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/gumeeee">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gumeeee&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
+---
 
-<a> 
-    <a href="https://github.com/gumeeee"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gumeeee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/gumeeee"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gumeeee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+### 🤝 Get in touch
+
+Open to conversations about **agentic AI, RAG architectures, MCP integrations** and production LLM systems.<br/>
+[LinkedIn](https://www.linkedin.com/in/guilherme-moura-13a991259/) · [GitHub](https://github.com/gumeeee)
