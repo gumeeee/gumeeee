@@ -83,7 +83,7 @@ LangGraph durable execution patterns · LLM evals & observability (Langfuse, Lan
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,vite" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" alt="Frontend"/>
 </p>
 
 #### Workers, async & messaging
