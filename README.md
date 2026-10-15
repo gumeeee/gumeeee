@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Moura</h1>
 
 <p align="center">
-  <b>AI Engineer @ Blis AI</b><br/>
+  <b>AI Engineer</b><br/>
   Building production LLM systems — agents, RAG, and MCP integrations.<br/>
   São Paulo, Brazil 🇧🇷 (UTC−3)
 </p>
